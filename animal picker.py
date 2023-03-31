@@ -7,7 +7,9 @@ theAnimal = animals[animalChoice]
 print(theAnimal, animalChoice)
 
 dog = {
-    "vertebrate": True
+    "vertebrate" : True,
+    "invertebrate" : False,
+    
 }
 
 x = input()
